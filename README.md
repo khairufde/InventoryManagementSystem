@@ -1,5 +1,7 @@
 # Inventory Management System
 
+To get the URL and guidance, download the urlAndGuides file.
+
 Features in the spreadsheets:
 
 - Stock low indication
