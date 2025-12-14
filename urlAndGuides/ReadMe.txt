@@ -13,6 +13,4 @@ Guide to moving columns or cells and renaming sheets:
 If you want a custom Google Sheet, you can reach the link below:
 https://www.fiverr.com/s/m5jygEN
 
-If you enjoy my projects and want to appreciate my effort support me on Sociabuzz:
-https://sociabuzz.com/khairullahf
 
