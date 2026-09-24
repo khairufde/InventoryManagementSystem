@@ -1,10 +1,12 @@
 # Inventory Management System
 
 To get the gsheet URL and guidance, download the urlAndGuides file.
-https://www.youtube.com/watch?v=EYZuXgcjY8s
+
 
 Features in the spreadsheets:
+
 https://www.youtube.com/watch?v=EYZuXgcjY8s
+
 - Stock low indication
 - Product and stock tracker
 - Costs and sales tracker
